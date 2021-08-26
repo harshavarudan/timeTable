@@ -8,7 +8,7 @@ class CourseClass{
         data=data.split("\n")
         this.courseCode=data[0].trim();
         this.ClassCode=data[1].trim();
-        this.timings=data.slice(2).join('')
+        this.timings=data.slice(2).join('\n')
 
     }
 }
@@ -33,9 +33,7 @@ function getDay(str){
     return -1;
 }
 function getHours(data){
-    console.log(data)
     data=data.split("\n")
-    console.log(data)
     let array=[]
     for(let i =0;i<data.length;i+=2){
         let temp=data[i].split(":");
@@ -53,7 +51,6 @@ function getHours(data){
 
     }
     }
-    console.table(array)
     return array;
 }
 async function getArray(){
