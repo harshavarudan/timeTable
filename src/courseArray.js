@@ -34,12 +34,12 @@ function getDay(str){
 }
 function getHours(data){
 
-    data=data.split("\n")
+    data=data.split("\r")
 
     let array=[]
     for(let i =0;i<data.length;i+=2){
         let temp=data[i].split(":");
-        let endHour=parseInt( temp[1].charAt(temp[1].length-1),10)
+        let endHour=parseInt( temp[1].split("- ")[1],10)
         temp=temp[0].split(" ");
         let hour=parseInt( temp[1],10);
         hour = hour >= 8 ? hour - 8 : hour + 4;
@@ -53,7 +53,6 @@ function getHours(data){
 
     }
     }
-
 
     return array;
 }
@@ -69,7 +68,7 @@ async function getArray(){
 
     await fetch(tt).then(x=>x.text()).then(
         async (data)=>{
-            data=data.trim().split("\n\n")
+            data=data.trim().split("\r\n\r\n")
 
             for(let i in data) {
                 let temp = new CourseClass(data[i])
