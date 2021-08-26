@@ -82,6 +82,7 @@ async function getArray(){
             }
         }
     )
+    console.log(courseArray)
     return courseArray;
 
 }
