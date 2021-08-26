@@ -68,9 +68,7 @@ async function getArray(){
 
     await fetch(tt).then(x=>x.text()).then(
         async (data)=>{
-            console.log(data)
             data=data.trim().split("\n\n")
-            console.log(data)
             for(let i in data) {
                 let temp = new CourseClass(data[i])
                 let arr= getHours(temp.timings)
@@ -83,7 +81,6 @@ async function getArray(){
             }
         }
     )
-    console.log(courseArray)
     return courseArray;
 
 }
