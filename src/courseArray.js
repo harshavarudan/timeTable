@@ -68,6 +68,7 @@ async function getArray(){
 
     await fetch(tt).then(x=>x.text()).then(
         async (data)=>{
+            console.log(data)
             data=data.trim().split("\r\n\r\n")
 
             for(let i in data) {
