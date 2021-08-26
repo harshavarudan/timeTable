@@ -47,9 +47,9 @@ class CurrentClass extends React.Component{
             className="mb-2">
             <Card.Header style={{fontWeight:"bold",fontFamily:"cursive",margin:"auto"}}>{type}</Card.Header>
             <Card.Body>
-                <a style={{color: "whitesmoke",margin:"auto"}} href={link} target="_blank" ><Card.Title>{name}</Card.Title></a>
+                <a style={{color: "whitesmoke"}} href={link} target="_blank" ><Card.Title>{name}</Card.Title></a>
                 <Card.Text>
-                    <a style={{fontWeight:"bold",margin:"auto"}}>{text}</a>
+                    <a style={{fontWeight:"400"}}>{text}</a>
                 </Card.Text>
             </Card.Body>
         </Card>)
