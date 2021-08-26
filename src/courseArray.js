@@ -33,9 +33,9 @@ function getDay(str){
     return -1;
 }
 function getHours(data){
-
-    data=data.split("\r")
-
+    console.log(data)
+    data=data.split("\n")
+    console.log(data)
     let array=[]
     for(let i =0;i<data.length;i+=2){
         let temp=data[i].split(":");
@@ -53,7 +53,7 @@ function getHours(data){
 
     }
     }
-
+    console.table(array)
     return array;
 }
 async function getArray(){
