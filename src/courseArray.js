@@ -34,7 +34,7 @@ function getDay(str){
 }
 function getHours(data){
 
-    data=data.split("\r")
+    data=data.split("\n")
 
     let array=[]
     for(let i =0;i<data.length;i+=2){
@@ -69,7 +69,7 @@ async function getArray(){
 
     await fetch(tt).then(x=>x.text()).then(
         async (data)=>{
-            data=data.trim().split("\r\n\r\n")
+            data=data.trim().split("\n\n")
 
             for(let i in data) {
                 let temp = new CourseClass(data[i])
