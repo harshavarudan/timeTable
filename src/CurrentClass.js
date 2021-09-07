@@ -30,6 +30,7 @@ class CurrentClass extends React.Component{
         }
         this.currentCard=this.currentCard.bind(this)
         this.nextCard=this.nextCard.bind(this)
+        this.reloader=this.reloader.bind(this)
     }
      Card(variant,course,type){
 
@@ -54,6 +55,16 @@ class CurrentClass extends React.Component{
             </Card.Body>
         </Card>)
 
+    }
+    reloader(){
+        this.setState((old)=>{
+            return {
+                CurrentClassComponent:this.currentCard(),
+                NextClassComponent:this.nextCard(),
+                CurrentClass:old.CurrentClass,
+                NextClass:old.NextClass
+            }
+        })
     }
     currentCard(){
         return this.Card('Danger',this.state.CurrentClass,"CURRENT CLASS")
