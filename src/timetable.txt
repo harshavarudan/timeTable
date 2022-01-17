@@ -35,7 +35,7 @@ Room  TBA
 HSS F343-L1
 LEC (3191)
 MoWeFr 4:00PM - 4:50PM
-Room  TBA
+https://meet.google.com/wwi-wpqv-wqd?pli=1&authuser=1
 
 IS F462-L1
 LEC (3010)
@@ -45,4 +45,4 @@ https://meet.google.com/bnx-ckzp-iak?pli=1&authuser=1
 MATH F231-L1
 LEC (3020)
 MoWeFr 2:00PM - 2:50PM
-Room  TBA
+https://meet.google.com/kmr-rjwc-seg?pli=1&authuser=1
