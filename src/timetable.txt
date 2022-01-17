@@ -1,58 +1,48 @@
-CS F301-L1
-LEC (3469)
-MoWe 3:00PM - 3:50PM
-https://meet.google.com/vhp-eoez-kde?pli=1&authuser=2
-
-CS F301-T2
-TUT (3471)
-Fr 3:00PM - 3:50PM
-https://meet.google.com/quo-fnze-zrc?pli=1&authuser=1
-
-CS F320-L1
-LEC (3749)
-MoWeFr 9:00AM - 9:50AM
-https://meet.google.com/udu-zpmt-smk?pli=1&authuser=1
-
-CS F320-P1
-LAB (3750)
-Th 2:00PM - 3:50PM
-Room  TBA
-
-CS F342-L2
-LEC (3475)
-MoWeFr 11:00AM - 11:50AM
-https://meet.google.com/btd-cvfy-ceu?pli=1&authuser=2
-
-CS F342-P2
-LAB (3477)
-Tu 5:00PM - 6:50PM
-Room  TBA
-
-CS F351-L1
-LEC (3457)
-MoWeFr 12:00PM - 12:50PM
-https://meet.google.com/dsd-xyme-hee?pli=1&authuser=2
-
-CS F351-T2
-TUT (3459)
-Th 4:00PM - 4:50PM
-https://meet.google.com/htd-isif-hzi?pli=1&authuser=1
-
-CS F372-L1
-LEC (3463)
+CS F303-L1
+LEC (2997)
 TuTh 12:00PM - 12:50PM
-https://meet.google.com/ttp-dmud-vsr?pli=1&authuser=2
+Room  TBA
 Fr 5:00PM - 5:50PM
-https://meet.google.com/ttp-dmud-vsr?pli=1&authuser=2
+Room  TBA
 
-CS F372-T2
-TUT (3465)
-Tu 9:00AM - 9:50AM
-https://meet.google.com/dgp-ffoo-dah?pli=1&authuser=1
+CS F303-P1
+LAB (2998)
+Sa 10:00AM - 11:50AM
+Room  TBA
 
-CS F407-L1
-LEC (3487)
-TuTh 11:00AM - 11:50AM
-https://meet.google.com/ybc-ocmu-ckn?pli=1&authuser=2
-We 5:00PM - 5:50PM
-https://meet.google.com/ybc-ocmu-ckn?pli=1&authuser=2
+CS F363-L1
+LEC (2991)
+MoWeFr 10:00AM - 10:50AM
+https://meet.google.com/qie-tkhp-bms?pli=1&authuser=1
+
+CS F364-L1
+LEC (2992)
+MoWeFr 12:00PM - 12:50PM
+Room  TBA
+
+CS F364-T2
+TUT (2994)
+Fr 8:00AM - 8:50AM
+Room  TBA
+
+ECON F212-L1
+LEC (2809)
+Mo 5:00PM - 5:50PM
+Room  TBA
+TuTh 10:00AM - 10:50AM
+Room  TBA
+
+HSS F343-L1
+LEC (3191)
+MoWeFr 4:00PM - 4:50PM
+Room  TBA
+
+IS F462-L1
+LEC (3010)
+MoWeFr 11:00AM - 11:50AM
+https://meet.google.com/bnx-ckzp-iak?pli=1&authuser=1
+
+MATH F231-L1
+LEC (3020)
+MoWeFr 2:00PM - 2:50PM
+Room  TBA

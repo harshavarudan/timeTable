@@ -3,7 +3,7 @@ import tt from "./timetable.txt"
 class CourseClass{
     constructor(data) {
         if( data==="TEMP" ){this.exists=false;this.name="NO CLASSES RIGHT NOW";return;}
-       else this.exists=true
+        else this.exists=true
         this.link="UNDECIDED";
         data=data.split("\n")
         this.courseCode=data[0].trim();
@@ -49,7 +49,7 @@ function getHours(data){
             }
             hour++;
 
-    }
+        }
     }
     return array;
 }
