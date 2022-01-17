@@ -1,9 +1,9 @@
 CS F303-L1
 LEC (2997)
 TuTh 12:00PM - 12:50PM
-Room  TBA
+https://teams.microsoft.com/l/channel/19%3aGmjjCBpOytBQEklB1633UutRLNlaUG3DuGvCs5q_cOA1%40thread.tacv2/General?groupId=524ca5e8-d4f7-4f91-9cac-28cba93865cf&tenantId=b9abe56c-43a7-4e67-a17b-32cfa05c95c8
 Fr 5:00PM - 5:50PM
-Room  TBA
+https://teams.microsoft.com/l/channel/19%3aGmjjCBpOytBQEklB1633UutRLNlaUG3DuGvCs5q_cOA1%40thread.tacv2/General?groupId=524ca5e8-d4f7-4f91-9cac-28cba93865cf&tenantId=b9abe56c-43a7-4e67-a17b-32cfa05c95c8
 
 CS F303-P1
 LAB (2998)
@@ -28,9 +28,9 @@ Room  TBA
 ECON F212-L1
 LEC (2809)
 Mo 5:00PM - 5:50PM
-Room  TBA
+https://meet.google.com/qsn-ezyu-phi?pli=1&authuser=1
 TuTh 10:00AM - 10:50AM
-Room  TBA
+https://meet.google.com/qsn-ezyu-phi?pli=1&authuser=1
 
 HSS F343-L1
 LEC (3191)
